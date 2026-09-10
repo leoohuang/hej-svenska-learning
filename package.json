@@ -1,0 +1,15 @@
+{
+  "name": "hej-swedish-training-source",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "description": "Source code for the Swedish training modules used in hej!",
+  "license": "GPL-3.0",
+  "scripts": {},
+  "dependencies": {
+    "canvas-confetti": "^1.6.0",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
